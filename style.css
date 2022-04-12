@@ -1,0 +1,37 @@
+.fizika{
+    max-width: 550px;
+    padding: 10px;
+    border: solid lightgray 1px;
+    border-radius: 16px;
+    background-color: lightgray;
+
+}
+
+.folap{
+    background-color: white;
+    max-width: 65%;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    border: white solid 5px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.cim{
+    margin: auto;
+    text-align: center;
+}
+
+
+.matek{
+    max-width: 550px;
+    margin-right: 5%;
+    float: right;
+    padding: 10px;
+    border: solid lightgray 1px;
+    border-radius: 16px;
+    background-color: lightgray;
+}
