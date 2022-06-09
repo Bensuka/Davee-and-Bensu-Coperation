@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/anya.png)
+}
+
+h1{
+    
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    border: solid white 1px;
+    border-radius: 15px;
+    padding: 35px;
+    text-align: center;
+    width: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hihi h1{
+    background-image: url(../img/japanese-goblin.gif);
+    background-repeat: no-repeat;
+    border: solid black 5px;
+    background-position-y: -150px;
+    background-size: cover;
+    
+}
