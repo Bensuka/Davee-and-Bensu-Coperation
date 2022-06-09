@@ -1,0 +1,114 @@
+.container{
+    background-color: white;
+    margin-top: 20px;
+    border: solid white 1px;
+    border-radius: 15px;
+    padding: 35px;
+
+}
+
+
+
+body{
+    background-color: lightblue;
+}
+
+.cim{
+    margin: auto;
+    text-align: center;
+}
+
+
+.matek{
+    max-width: 550px;
+    float: right;
+    padding: 10px;
+}
+
+
+.info{
+    padding: 15px;
+    border: solid lightgray 1px;
+    border-radius: 16px;
+    background-color: lightgray;
+    margin-top: 5px;
+    margin-top: 35px;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 5px 30px 5px 30px;
+    border-radius: 15px;
+    border: lightgray solid 1px;
+    margin-bottom: 5px;
+    background-color: lightgray;
+    display: inline-block;
+}
+
+nav{
+    text-align: center;
+}
+#box{
+    margin-right: auto;
+    border: solid lightgray 1px;
+    border-radius:  15px;
+    background-color: lightgray;
+}
+
+ #box p{
+     font-size: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #box2{
+     margin-left: auto;
+    border: solid lightgray 1px;
+    border-radius:  15px;
+    background-color: lightgray;
+}
+
+ #box2 p{
+     font-size: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #box3{
+   border: solid lightgray 1px;
+   border-radius:  15px;
+   background-color: lightgray;
+   margin-top: 100px;
+}
+
+#box3 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body img{
+    display: inline-block;
+}
+
+#box3 img{
+    float: right;
+    display: inline-block;
+    margin: auto;
+    border: white solid 10px;
+    border-radius: 15px;
+    margin-right: 45px;
+    
+}
+
+footer img{
+    display: inline-block;
+    
+}
+
+
+#qrcode{
+    margin-left:34.80%;
+
+}
